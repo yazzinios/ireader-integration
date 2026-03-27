@@ -1,0 +1,6 @@
+customtkinter
+pyserial
+pygame
+pillow
+opencv-python
+pynput

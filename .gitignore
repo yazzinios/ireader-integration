@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+kiosk_config.json
+*.mp4
+*.mp3
+*.jpg
+*.png
+*.webp
+ads/
+media/
+sounds/
+# Optional: keep config template
+!kiosk_config.json.template
