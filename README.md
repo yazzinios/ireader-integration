@@ -2,7 +2,6 @@
 
 A premium, open-source gaming kiosk management system designed for arcade machines, coin-operated stations, and private gaming zones. Supporting both low-latency hardware keyboard hacks and traditional serial coin acceptors.
 
-![Software Interface Mockup](C:\Users\YASSINE BERKAOUI\.gemini\antigravity\brain\090829f3-1549-4a84-9bcf-449d7370a36d\software_ui_mockup_v2_1774611379800.png)
 
 ## 🔌 Hardware Configuration
 
@@ -15,7 +14,7 @@ The system is designed to interface with physical coin acceptors or card readers
 4.  **Interface with Coin Acceptor**: Connect these two wires to the **Relay Output** (NO/COM) of your Coin Acceptor or iReader.
 5.  **Operation**: When a coin is inserted or a card is tapped, the device shorts the wires, simulating a physical key press which the software detects instantly as a credit.
 
-![Hardware Wiring Schematic](C:\Users\YASSINE BERKAOUI\.gemini\antigravity\brain\090829f3-1549-4a84-9bcf-449d7370a36d\hardware_wiring_diagram_1774611098565.png)
+
 
 ## 💻 Software Architecture
 
@@ -53,4 +52,5 @@ Once an input is detected, the software converts it to a credit, triggers profes
 *   Pyserial (Hardware Comms)
 
 ---
-*Created with ❤️ for the arcade and gaming community.*
+*Created with Yazzine❤️ for the arcade and gaming community.*
+https://ma.linkedin.com/in/yazzine/fr
